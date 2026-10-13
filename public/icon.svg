@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#090d16"/>
+  <circle cx="256" cy="256" r="180" stroke="#3b82f6" stroke-width="12" stroke-dasharray="24 12" opacity="0.6"/>
+  <circle cx="256" cy="256" r="140" fill="#1e293b" stroke="#0ea5e9" stroke-width="16"/>
+  <circle cx="256" cy="256" r="85" fill="#0f172a" stroke="#38bdf8" stroke-width="8"/>
+  <circle cx="225" cy="225" r="30" fill="#38bdf8" opacity="0.4"/>
+  <!-- Crosshairs / Reticle -->
+  <line x1="256" y1="56" x2="256" y2="100" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <line x1="256" y1="412" x2="256" y2="456" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <line x1="56" y1="256" x2="100" y2="256" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <line x1="412" y1="256" x2="456" y2="256" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+  <!-- Compass N marker -->
+  <path d="M256 70 L266 95 L246 95 Z" fill="#ef4444"/>
+  <!-- Pin Indicator -->
+  <circle cx="370" cy="142" r="32" fill="#ef4444"/>
+  <circle cx="370" cy="142" r="14" fill="#ffffff"/>
+</svg>

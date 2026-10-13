@@ -1,0 +1,6 @@
+{
+  "name": "GeoCam Campo - Câmera de Campo & Topografia",
+  "description": "Aplicativo mobile para fotos de campo com carimbo georreferenciado (UTM, GMS e Graus decimais), altimetria, bússola e organização em pastas locais para Android e iOS.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
